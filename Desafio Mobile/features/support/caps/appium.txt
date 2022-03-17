@@ -1,0 +1,9 @@
+[caps]
+platformName = 'Android'
+platformVersion = '9.0'
+deviceName = 'VirtualDevice'
+udid = '192.168.235.107:5555'
+app = 'c:\\Neon\Desafio Mobile\\features\\support\\caps\\cadastro_clientes_teste.apk'
+appPackage = 'br.com.dudstecnologia.cadastrodeclientes'
+appWaitForLaunch = 'false'
+automationName = 'uiautomator2'
