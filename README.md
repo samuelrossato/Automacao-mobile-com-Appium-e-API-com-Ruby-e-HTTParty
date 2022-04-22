@@ -1,6 +1,5 @@
-# Desafio Neon
-
-Desafio Neon separados em duas partes: 
+# Automação mobile com Appium e automação API com Ruby e HTTParty
+ 
 Automação Backend
 Automação Mobile
 
